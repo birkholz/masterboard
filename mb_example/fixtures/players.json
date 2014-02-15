@@ -1,0 +1,110 @@
+[
+{
+    "pk": 1, 
+    "model": "mb_example.player", 
+    "fields": {
+        "score": 8, 
+        "name": "Brandon Birkholz", 
+        "avatar": "avatars/pic.jpg"
+    }
+},
+{
+    "pk": 2, 
+    "model": "mb_example.player", 
+    "fields": {
+        "score": 3, 
+        "name": "John Smith", 
+        "avatar": "avatars/admin.png"
+    }
+},
+{
+    "pk": 3, 
+    "model": "mb_example.player", 
+    "fields": {
+        "score": 7, 
+        "name": "Ronald Reagan", 
+        "avatar": "avatars/rr.jpg"
+    }
+},
+{
+    "pk": 4, 
+    "model": "mb_example.player", 
+    "fields": {
+        "score": 2, 
+        "name": "George Bush", 
+        "avatar": "avatars/gwb.jpg"
+    }
+},
+{
+    "pk": 5, 
+    "model": "mb_example.player", 
+    "fields": {
+        "score": 0, 
+        "name": "Miley Cryus", 
+        "avatar": "avatars/mc.png"
+    }
+},
+{
+    "pk": 6, 
+    "model": "mb_example.player", 
+    "fields": {
+        "score": 3, 
+        "name": "Carl Sagan", 
+        "avatar": "avatars/cs.jpg"
+    }
+},
+{
+    "pk": 7, 
+    "model": "mb_example.player", 
+    "fields": {
+        "score": 4, 
+        "name": "Bill Nye", 
+        "avatar": "avatars/bn.png"
+    }
+},
+{
+    "pk": 8, 
+    "model": "mb_example.player", 
+    "fields": {
+        "score": 1, 
+        "name": "Justin Bieber", 
+        "avatar": "avatars/jb.jpg"
+    }
+},
+{
+    "pk": 9, 
+    "model": "mb_example.player", 
+    "fields": {
+        "score": 6, 
+        "name": "Barack Obama", 
+        "avatar": "avatars/bo.png"
+    }
+},
+{
+    "pk": 10, 
+    "model": "mb_example.player", 
+    "fields": {
+        "score": 0, 
+        "name": "Lil Wayne", 
+        "avatar": "avatars/lw.jpg"
+    }
+},
+{
+    "pk": 11, 
+    "model": "mb_example.player", 
+    "fields": {
+        "score": 4, 
+        "name": "Bill Gates", 
+        "avatar": "avatars/bg.JPG"
+    }
+},
+{
+    "pk": 12, 
+    "model": "mb_example.player", 
+    "fields": {
+        "score": 3, 
+        "name": "Leonardo DiCaprio", 
+        "avatar": "avatars/ld.jpeg"
+    }
+}
+]
