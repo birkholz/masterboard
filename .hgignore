@@ -1,6 +1,0 @@
-syntax: glob
-*.pyc
-database.db
-local_settings.py
-*config_cache.json
-db.sqlite3*
